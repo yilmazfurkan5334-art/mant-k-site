@@ -1,2 +1,2 @@
-# mant-k-site
-Klasşk ve modern mantık 
+# mantık-site
+Klasik ve modern mantık 
